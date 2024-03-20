@@ -20,3 +20,7 @@ G.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35,b/f/bf
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 X
 (gradle/wrapper/gradle-wrapper.properties,f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
+u
+Esrc/main/java/dev_java_oracle/get_started/GettingStartedWithJava.java,d/a/da8052ee977016b2eca02d7da19e96578ae65d2e
+C
+study-with-java.iml,8/a/8af0706f5b816c75ebb7a0f8658fb8311421c035
