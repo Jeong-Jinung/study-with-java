@@ -20,7 +20,9 @@ G.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35,b/f/bf
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 X
 (gradle/wrapper/gradle-wrapper.properties,f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e
-u
-Esrc/main/java/dev_java_oracle/get_started/GettingStartedWithJava.java,d/a/da8052ee977016b2eca02d7da19e96578ae65d2e
 C
 study-with-java.iml,8/a/8af0706f5b816c75ebb7a0f8658fb8311421c035
+t
+Dsrc/main/java/oracle/learn/getting_to_know_the_language/Bicycle.java,3/1/31fc05112d9f274ff7ba0226402b6ae713bed6db
+x
+Hsrc/main/java/oracle/learn/getting_to_know_the_language/BicycleDemo.java,7/4/7455e1ccd1373af5ecbd3076acbe4144bf386050
